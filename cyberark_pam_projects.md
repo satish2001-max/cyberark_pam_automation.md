@@ -358,4 +358,14 @@ To practice these projects without a production CyberArk environment:
 - Add a architecture diagram showing how the tool fits into a PAM workflow
 - Document what CyberArk components each project interacts with (PVWA, CPM, PSM)
 - Tag repos with topics: `cyberark`, `pam`, `privileged-access`, `security-automation`
+---
 
+## ✅ Built Projects
+
+These projects have been fully built out with complete source code:
+
+| # | Project | Repo | Status |
+|---|---------|------|--------|
+| 2 | **Password Health Dashboard** | [cyberark-password-health-dashboard](https://github.com/satish2001-max/cyberark-password-health-dashboard) | ✅ Complete |
+
+> More projects will be added here as they are built out.
